@@ -1,4 +1,4 @@
-# generative art V1.0
+# generative art V1.5
 https://editor.p5js.org/Haoroux/sketches/tbf2M77_1
 ## Description:
 ### What is generative art ?
@@ -7,8 +7,8 @@ https://editor.p5js.org/Haoroux/sketches/tbf2M77_1
 -colors
 -number of color
 -size
--circles or not
-
+-other shapes(circle triangle)  
+ 
 
 ### What I will improve ?
 - Make a real html page for the project
