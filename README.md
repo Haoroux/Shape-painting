@@ -7,6 +7,8 @@ https://editor.p5js.org/Haoroux/sketches/tbf2M77_1
 -colors
 -number of color
 -size
+-circles or not
+
 
 ### What I will improve ?
 - Make a real html page for the project
