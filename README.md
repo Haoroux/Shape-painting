@@ -12,7 +12,7 @@ p5js project:https://editor.p5js.org/Haoroux/sketches/tbf2M77_1
 This project uses the concept of generative art:  
 >art that in whole or in part has been created with the use of an autonomous system
 
-It aims to create images with the desired parameters thanks to a certain logic.  \
+It aims to create images with the desired parameters thanks to a certain logic.  
 
 ## Parameters:
 
