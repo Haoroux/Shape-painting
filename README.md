@@ -13,6 +13,7 @@ This project uses the concept of generative art:
 >art that in whole or in part has been created with the use of an autonomous system
 
 It aims to create images with the desired parameters thanks to a certain logic.  
+You want to make your own paint? just click on the first link above!!!
 
 ## ⚙️Parameters⚙️
 
