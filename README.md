@@ -2,7 +2,7 @@
 <img src="https://github.com/Haoroux/generative-art/assets/52127278/c32c82b9-a9d4-4df2-8a02-a7df72adac05" width="400" height="400" />
 
 ## 🔗Links🔗
-Site:https://haoroux.github.io/generative-art/  
+Site:https://haoroux.github.io/Shape-painting/  
 p5js project:https://editor.p5js.org/Haoroux/sketches/tbf2M77_1
 
 ## 📙Used languages📙
