@@ -1,7 +1,27 @@
-html, body {
-  margin: 0;
-  padding: 0;
+body {
+    background-image: url(canvas.generativArt.jpg);
+    padding: 0;
+    margin: 0;
 }
-canvas {
-  display: block;
+
+#top {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 auto;
+    background-image: url(top.jpg);
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+iframe {
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+a {
+    color: white;
+
 }
