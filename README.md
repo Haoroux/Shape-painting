@@ -1,26 +1,26 @@
-# Welcome to the project Shape painting
+# 👋Welcome to the project Shape painting🎨
 <img src="https://github.com/Haoroux/generative-art/assets/52127278/c32c82b9-a9d4-4df2-8a02-a7df72adac05" width="400" height="400" />
 
-## Links:
+## 🔗Links🔗
 Site:https://haoroux.github.io/generative-art/  
 p5js project:https://editor.p5js.org/Haoroux/sketches/tbf2M77_1
 
-## Used languages:
+## 📙Used languages📙
 [![Used languages](https://skillicons.dev/icons?i=js,html,css,p5js)](https://skillicons.dev)
 
-## Description:
+## 📝Description📝
 This project uses the concept of generative art:  
 >art that in whole or in part has been created with the use of an autonomous system
 
 It aims to create images with the desired parameters thanks to a certain logic.  
 
-## Parameters:
+## ⚙️Parameters⚙️
 
 -the type of forms includes  
 -the size of the image  
 -the colors  
 
-### Results :
+### 🖼️Results🖼️
 -only squares  
 <img src="https://github.com/Haoroux/generative-art/assets/52127278/cedde49e-7c39-4bd5-883f-de3878c0fa01" width="200" height="200" />
 <img src="https://github.com/Haoroux/generative-art/assets/52127278/f5172b9a-259e-4072-b99f-5b28d2e9819f" width="200" height="200" />
